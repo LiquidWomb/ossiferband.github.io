@@ -46,6 +46,6 @@ layout: null
   <img src="/assets/photos/Spoken Forms Logo White Left Aligned.png">
   </div>
   <div class="container"> -->
-    <img src="./assets/photos/cat.gif"> 
+    <img src="/ossifer/assets/photos/cat.gif"> 
 </body>
 </html>
