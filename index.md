@@ -33,7 +33,7 @@ layout: null
       width: 100%;}
     .text-block {
       color: #815f5c;
-      font-size: 2rem;
+      font-size: 1.5rem;
       line-height: 1.6;
       margin: 2rem 0;
       width: 80%;}
