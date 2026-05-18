@@ -35,7 +35,7 @@ layout: null
       color: #815f5c;
       font-size: 1.5rem;
       line-height: 1.6;
-      margin: 2rem 0;
+      margin: 2rem auto;
       width: 80%;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
