@@ -59,12 +59,12 @@ layout: null
   <div class="text-block">  
   <p>OSSIFER is a doomgaze trio from Austin, Texas crafting immersive soundscapes from crushing riffs and towering shoegaze textures. 
     Drawing from post-metal, doom, and atmospheric sludge, their music balances weight and melody with introspective themes and cinematic intensity.</p>
+  </div>
   <div class="text-block">
     <p>Caleb Hartsell - guitars<br>
   Ximena Boyrie - bass, vocals<br>
   Alex Ross - drums</p>  
   </div>
-</div>
   </div>
 </body>
 </html>
