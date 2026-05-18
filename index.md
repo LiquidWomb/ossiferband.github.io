@@ -22,7 +22,7 @@ layout: null
     .title img {
       height: 200px;
       width: auto;
-      padding: 5%;}
+      padding: 0;}
     .container {
       padding-top: 20rem;
       width: 1000px;
