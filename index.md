@@ -19,10 +19,7 @@ layout: null
       background-color: #121212; 
       z-index: 100;}
     .title img {
-      width: 20%;
-      margin-left: 5%;
-      display: block;
-      margin: 0;
+      width: 60%;
       padding: 2rem;}
     .container {
       padding-top: 10rem;
