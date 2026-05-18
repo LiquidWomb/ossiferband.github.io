@@ -15,6 +15,7 @@ layout: null
     .title {
       position: fixed;
       width: 100%;
+      max-height: 600px;
       display: flex;
       justify-content: center;
       background-color: #121212; 
